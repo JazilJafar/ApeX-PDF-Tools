@@ -20,6 +20,8 @@ ApexPDF Studio is a private, browser-based PDF editing workspace. It uses PDF.js
 - Undo and redo changes
 - Switch between light and dark themes
 - Export the finished document as a PDF
+- Merge multiple PDF files
+- Convert JPG, PNG, and WebP images to PDF
 
 ## Project Structure
 

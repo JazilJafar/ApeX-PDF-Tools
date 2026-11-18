@@ -8,6 +8,7 @@ ApexPDF Studio is a private, browser-based PDF editing workspace. It uses PDF.js
 - Edit, move, resize, rotate, duplicate, lock, and align elements
 - Edit text directly on the page or through the inspector
 - Move and select replaced existing-text blocks on the page
+- Resize and reposition existing-text replacements
 - Add text, freehand drawings, highlights, shapes, stamps, checkboxes, and notes
 - Add typed or drawn e-signatures
 - Apply permanent redactions
